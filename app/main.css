@@ -1,0 +1,26 @@
+.wrapper{
+	padding-top: 60px;
+	width: 75%;
+	margin: auto;
+}
+.user-name{
+	color: red;
+}
+.post-content{
+	color: blue;
+}
+.header{
+	text-align: center;
+	color: white;
+	padding-top: 5px;
+}
+ .formContainer{
+ 	
+                background-color: aliceblue;
+                padding: 14px;
+                border: 1px solid lightgrey;
+                border-radius: 8px;
+            }
+            .bgHead{
+                background-color: darkgrey;
+            }
