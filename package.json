@@ -4,7 +4,6 @@
   "description": "angular sample app",
   "main": "index.js",
   "scripts": {
-    "test": "karma start karma.conf.js",
     "start": "cross-env NODE_ENV='development' DEBUG='true' NODE_PATH='.' PORT='9292' nodemon index.js"
   },
   "author": "radhikamalviya26@gmail.com",
